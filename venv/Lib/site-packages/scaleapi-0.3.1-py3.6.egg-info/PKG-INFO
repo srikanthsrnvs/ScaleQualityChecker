@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: scaleapi
+Version: 0.3.1
+Summary: The official Python client library for the Scale API, the API for human intelligence.
+Home-page: https://github.com/scaleapi/scaleapi-python-client
+Author: Calvin Huang
+Author-email: c@lvin.me
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: scale,scaleapi,humans,tasks,categorization,transcription,annotation,comparison,data collection,audio transcription
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.5
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries
